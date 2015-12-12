@@ -1,9 +1,8 @@
 #Xamarin Studio Addin for BlueStacks
+####Use the [BlueStacks Android Player](http://www.bluestacks.com) as a debug target for your Xamarin Studio Android projects.
 
 ![](media/BlueStacks-Player.png)
 > Xamarin's My Shoppe app runnning in debug mode on BlueStacks
-
-####Use the [BlueStacks Android Player](http://www.bluestacks.com) as a debug target for your Xamarin Studio Android projects.
 
 **Note**: Windows is not currently enabled in this project, please post your [vote](https://github.com/sushihangover/SushiHangover.BlueStacks.Addin/issues/1)
 
@@ -57,7 +56,7 @@ Note: BlueStacks does not have to exist in the typical `/Applications` or `~/App
 
 ##"My Shoppe" Example on BlueStacks:
 
-#### **How while does your app scale? "My Shoppe" does it the right way!**
+#### **How well does your app scale? "My Shoppe" does it the right way...**
 
 ###Original application size on BlueStacks:
 ![](media/Tasky-Original-01.png)
