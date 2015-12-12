@@ -1,10 +1,21 @@
-#Xamarin Studio BlueStacks Addin
-
-Note: Windows is not currently enabled in this project, please post your vote to the GitHub issue
+#Xamarin Studio Addin for BlueStacks
 
 ![](media/BlueStacks-Player.png)
+> Xamarin's My Shoppe app runnning in debug mode on BlueStacks
 
 ####Use the [BlueStacks Android Player](http://www.bluestacks.com) as a debug target for your Xamarin Studio Android projects.
+
+**Note**: Windows is not currently enabled in this project, please post your [vote](https://github.com/sushihangover/SushiHangover.BlueStacks.Addin/issues/1)
+
+##Why:
+
+* It is a fully licensed Android client:
+	* **Play Store access**
+	* **Google Apps available** (Maps, Mail, etc...)
+	* **Google Play services**
+* 100+ million BlueStacks' end-users (per company statement)
+* BlueStacks is a ***really*** fast Android client 
+* BlueStacks does OpenGL ES based apps really well.
 
 ## BlueStacks = Android API 19 Device
 
@@ -38,11 +49,33 @@ Note: The BlueStacks menu item will be disabled
 
 ####BlueStacks is not installed:
 
+![](media/BlueStacks-NotInstalled.png)
 
-Note: BlueStacks does not have to exist in the typical /Applications or ~/Applications install locations. As long as OS-X Finder's location service can find it, it can be used.
+*Select the menu item to go to BlueStacks to download their Player.*
 
+Note: BlueStacks does not have to exist in the typical `/Applications` or `~/Applications` install locations. As long as OS-X Finder's location service can find it, it can be used.
+
+##"My Shoppe" Example on BlueStacks:
+
+#### **How while does your app scale? "My Shoppe" does it the right way!**
+
+###Original application size on BlueStacks:
+![](media/Tasky-Original-01.png)
+![](media/Tasky-Original-02.png)
+
+###Select "Tablet" size for the app:
+![](media/Tasky-AppSize.png)
+
+###Tablet size "My Shoppe":
+![](media/Tasky-Size-01.png)
+![](media/Tasky-Size-02.png)
+![](media/Tasky-Size-03.png)
 
 
 ##Disclaimer: 
 
-I have no connection to BlueStacks other than as an end-user and this is not a direct endorsement for their product (other than as a satified user).
+I have no connection to BlueStacks other than as an end-user and this is not a direct endorsement for their product (but I am a happy end-user...).
+
+## License:
+
+The MIT License (MIT) (see `LICENSE.md`) 
