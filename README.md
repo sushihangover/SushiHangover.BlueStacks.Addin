@@ -1,12 +1,15 @@
 #Xamarin Studio Addin for BlueStacks
 ####Use the [BlueStacks Android Player](http://www.bluestacks.com) as a debug target for your Xamarin Studio Android projects.
 
-![](media/BlueStacks-Player.png)
 > Xamarin's My Shoppe app runnning in debug mode on BlueStacks
 
-![](media/Whack-Short.gif)
+![My Shoppe](media/BlueStacks-Player.png)
+
 
 > [Whack](http://www.adobe.com/devnet/flashplayer/articles/creating-whack-with-starling.html) (ActionScript / [Starling](http://gamua.com/starling/)) compiled using with Xamarin.Android & [PlayScript](https://github.com/PlayScriptRedux/playscript) and running on BlueStacks. Game runs at 60 fps on BlueStack without breaking a sweat...
+
+![Whack GIF](media/Whack-Short.gif)
+
 
 **Note**: Windows is not currently enabled in this project, please post your [vote](https://github.com/sushihangover/SushiHangover.BlueStacks.Addin/issues/1)
 
