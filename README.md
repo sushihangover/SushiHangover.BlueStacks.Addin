@@ -30,6 +30,11 @@ When activated as an ADB debug device within Xamarin Studio, BlueStacks will be 
 
 ![](media/BlueStacks-Device.png)
 
+## Andriod Project Build Setting:
+This public version of the Addin does not currently automatically toggle the `Use shared Mono runtime` on/off during activation. You will need to do this manually otherwise you will get a deployment failure when you try to deploy a debug version of your app.
+
+![](media/BlueStacks-SharedRuntime.png)
+
 ## Xamarin Studio - Addin Manager
 
 ![](media/BlueStacks-Addin.png)
