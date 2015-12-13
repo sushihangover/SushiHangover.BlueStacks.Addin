@@ -4,7 +4,12 @@
 ![](media/BlueStacks-Player.png)
 > Xamarin's My Shoppe app runnning in debug mode on BlueStacks
 
+![](media/Whack-Short.gif)
+
+> [Whack](http://www.adobe.com/devnet/flashplayer/articles/creating-whack-with-starling.html) (ActionScript / [Starling](http://gamua.com/starling/)) compiled using with Xamarin.Android & [PlayScript](https://github.com/PlayScriptRedux/playscript) and running on BlueStacks. Game runs at 60 fps on BlueStack without breaking a sweat...
+
 **Note**: Windows is not currently enabled in this project, please post your [vote](https://github.com/sushihangover/SushiHangover.BlueStacks.Addin/issues/1)
+
 
 ##Why:
 
@@ -21,6 +26,10 @@
 When activated as an ADB debug device within Xamarin Studio, BlueStacks will be listed under "Physical Devices" and displayed as "Samsumg SM-G900F (API 19)"
 
 ![](media/BlueStacks-Device.png)
+
+## Xamarin Studio - Addin Manager
+
+![](media/BlueStacks-Addin.png)
 
 ## Xamarin Studio - Tools Menu
 
